@@ -6,8 +6,8 @@ I'm a **Software Engineer** based in **New Delhi, India**, with over **3 years o
 
 ### 🌟 About Me
 
-- 🧑‍💻I'm a person who's genuinely interested in my craft.
-- 💻Passionate about writing performant and scalable code
+- 🧑‍💻 I'm a person who's genuinely interested in my craft.
+- 💻 Passionate about writing performant and scalable code
 - 🌐 Experienced in working across the stack — from UI to infrastructure
 - 🎓 Participated in **Google Summer of Code 2021** with **LibreOffice**, where I contributed in **C++** to develop a **graphics diagnostics system** to help troubleshoot rendering issues
 
