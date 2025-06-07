@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akshit Kushwaha
 
-I'm a **Software Engineer** based in **New Delhi, India**, with over **3 years of experience** building across the **frontend, backend, and full stack**, currently working at VWO - the world's top A/B testing tool. I love solving real-world problems through code and deeply appreciate clean architecture and maintainable systems.
+I'm a **Software Engineer** based in **New Delhi, India**, with over **3 years of experience** building across the **full stack**, currently working at VWO - the world's top A/B testing tool. I love solving real-world problems through code and deeply appreciate clean architecture and maintainable systems.
 
 ---
 
